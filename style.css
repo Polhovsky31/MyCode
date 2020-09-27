@@ -2,8 +2,8 @@ body {
   margin: 0;
   min-width: 960px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
-  font-size: 16px;
-  line-height: 32px;
+  font-size: 100%;
+  line-height: 100%;
   color: #222222;
   background-color: #f2f4f6;
   background-image: url("https://urapobeda.ru/wp-content/uploads/2020/03/7789f9db8eedaec7e114f3d52e3f563b-ef06d885f38ba0dd4cf020dba4a31db7-1024x576.jpg");
