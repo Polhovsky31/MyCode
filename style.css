@@ -1,15 +1,21 @@
 @font-face {
       font-family: 'Caveat';
-      src: url('Caveat-Regular.ttf');
+      src: url('caveat-regular.woff') format('woff');
+      src: url('caveat-regular.woff2') format('woff2');
       font-weight: normal;
       font-style: normal;
 }
   
 @font-face {
       font-family: 'Caveat';
-      src: url('Caveat-Bold.ttf');
+      src: url('caveat-bold.woff') format('woff');
+      src: url('caveat-bold.woff2') format('woff2');
       font-weight: bold;
       font-style: normal;  
+}
+
+p {
+    font-family: Caveat;  
 }
 
 body {
@@ -23,10 +29,6 @@ body {
   background-image: url(https://imgfon.ru/Img/Crop/2560x2048/Nature/derevo-noch-luna-nebo-zvezdy.jpg);
   background-repeat: no-repeat;
   background-position: top center;
-}
-
-p {
-    font-family: Caveat;  
 }
 
 .container {
