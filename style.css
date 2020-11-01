@@ -9,7 +9,7 @@
 @font-face {
       font-family: 'Caveat';
       src: url('CSS/Fonts/caveat-bold.woff') format('woff');
-      src: url('CSS/Fonts/caveat-bold.woff') format('woff2');
+      src: url('CSS/Fonts/caveat-bold.woff2') format('woff2');
       font-weight: bold;
       font-style: normal;  
 }
