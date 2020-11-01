@@ -25,6 +25,10 @@ body {
   background-position: top center;
 }
 
+p {
+    font-family: Caveat;  
+}
+
 .container {
   max-width: 928px;
   margin: 0 auto;
