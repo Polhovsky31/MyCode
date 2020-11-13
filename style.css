@@ -1,5 +1,5 @@
 @font-face {
-      font-family: 'Caveat';
+      font-family: "Caveat";
       src: url('../fonts/caveat-regular-webfont.woff') format('woff');
       src: url('../fonts/caveat-regular-webfont.woff2') format('woff2');
       font-weight: normal;
@@ -7,7 +7,7 @@
 }
   
 @font-face {
-      font-family: 'Caveat';
+      font-family: "Caveat";
       src: url('../fonts/caveat-bold-webfont.woff') format('woff');
       src: url('../fonts/caveat-bold-webfont.woff2') format('woff2');
       font-weight: bold;
@@ -15,7 +15,7 @@
 }
 
 p {
-    font-family: 'Caveat';  
+    font-family: "Caveat";  
 }
 
 body {
