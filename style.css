@@ -1,13 +1,13 @@
 @font-face {
       font-family: 'Caveat';
-      src: url('../Caveat-Regular.ttf');
+      src: url('Caveat-Regular.ttf');
       font-weight: normal;
       font-style: normal;
 }
   
 @font-face {
       font-family: 'Caveat';
-      src: url('../Caveat-Bold.ttf');
+      src: url('Caveat-Bold.ttf');
       font-weight: bold;
       font-style: normal;  
 }
